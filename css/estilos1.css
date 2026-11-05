@@ -60,6 +60,12 @@ margin-left: auto;}
 
 .logo {border-radius: 50%;}
 
+nav {background-color: green;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;}
+
+
 footer {display: flex;
         justify-content: space-around;
         align-items: center;
